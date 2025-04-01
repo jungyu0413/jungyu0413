@@ -29,7 +29,7 @@ A study on estimating subject anxiety using eye blinking and facial expression r
 
 ---
 
-## 🖥️ Realtime Applications
+## 🖥️ Projects
 
 ### [Realtime Expression Recognition (Expression Classification)](https://github.com/jungyu0413/Realtime_FER_Classification)
 Real-time facial expression recognition using softmax-based classification.  
