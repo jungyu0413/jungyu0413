@@ -47,8 +47,8 @@ Extension of expression recognition to continuous affect modeling via valence–
 Includes real-time video interface and visual affect mapping.
 
 ### [Realtime Eye Blink Detection](https://github.com/jungyu0413/Eye_Blink_Detection)
-Lightweight eye blink detection module for real-time webcam input.  
-Designed for efficient deployment on low-power devices and integration into anxiety estimation systems.
+Real-time eye blink detection tailored for behavioral analysis and human state monitoring.
+Optimized for lightweight deployment on embedded systems and suitable for integration into anxiety estimation pipelines.
 
 ### [Realtime Face Detector](https://github.com/jungyu0413/realtime_face_detector)
 Lightweight face detector for real-time webcam input.  
