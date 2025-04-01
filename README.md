@@ -4,7 +4,11 @@
 BS in Big Data Analytics, Kookmin University  
 
 I'm currently researching **Facial Expression Recognition**, **Face Recognition**, and real-time applications of human-centered AI.  
-My work focuses on making AI models more robust, interpretable, and practical in the wild.
+My work focuses on making AI models more **robust**, **interpretable**, and **practical** in real-world environments.
+
+I'm particularly interested in developing AI systems that **understand humans most effectively** — both emotionally and behaviorally.  
+Ultimately, I aspire to become a researcher who contributes to society and the nation through **AI technologies that truly serve people**.
+
 
 ---
 
