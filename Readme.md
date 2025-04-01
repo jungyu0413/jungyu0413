@@ -57,3 +57,4 @@ Feel free to check out the code, raise issues, or collaborate!
 
 - Email: jungyu0413@gmail.com
 - GitHub: [github.com/jungyu0413](https://github.com/jungyu0413)
+- Google: Scholar https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko
