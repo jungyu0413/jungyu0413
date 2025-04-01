@@ -47,7 +47,7 @@ Based on SSD and RetinaFace; tuned for single-person detection scenarios.
 
 ## 📁 ETC
 
-More project repositories and demos are available on my [GitHub profile](https://github.com/jungyu0413).
+More project repositories and demos are available on my [GitHub profile](https://github.com/jungyu0413?tab=repositories).
 
 Feel free to check out the code, raise issues, or collaborate!
 
