@@ -28,7 +28,7 @@ An extension of NLA into the video domain. V-NAW leverages temporal dynamics and
 
 ---
 
-### [Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules (IEIE, 2024)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)  
+### [Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules (IEIE 2024)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)  
 A study on estimating subject anxiety using eye blinking and facial expression recognition on embedded systems.  
 📄 Published at IEIE Summer Annual Conference 2024  
 🔗 [Official Code](https://github.com/jungyu0413/Realtime-Eye-Blink-Detection)
