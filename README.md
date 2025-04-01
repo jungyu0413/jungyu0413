@@ -31,11 +31,11 @@ A study on estimating subject anxiety using eye blinking and facial expression r
 
 ## 🖥️ Realtime Applications
 
-### [Realtime Expression Recognition (Expression Classification)](https://github.com/jungyu0413/realtime_emotion)
+### [Realtime Expression Recognition (Expression Classification)](https://github.com/jungyu0413/Realtime_FER_Classification)
 Real-time facial expression recognition using softmax-based classification.  
 Includes face detection, preprocessing, and visualization.
 
-### [Realtime Expression Recognition (Valence-Arousal Estimation)](https://github.com/jungyu0413/realtime_emotion)
+### [Realtime Expression Recognition (Valence-Arousal Estimation)](https://github.com/jungyu0413/Realtime_FER_Estimation)
 Extension of expression recognition to continuous affect modeling via valence–arousal space.  
 Includes real-time video interface and visual affect mapping.
 
