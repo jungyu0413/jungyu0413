@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Jun Gyu Lee
+# 👋 Hi, I'm JunGyu Lee
 
 **MS Student @ KIST School (UST)**  
 BS in Big Data Analytics, Kookmin University  
