@@ -8,11 +8,20 @@ My work focuses on making AI models more robust, interpretable, and practical in
 
 ---
 
-## 📌 Featured Projects
+## 📌 Publications
 
 ### [Navigating Label Ambiguity for Facial Expression Recognition in the Wild (AAAI 2025)](https://github.com/jungyu0413/Navigating-Label-Ambiguity-NLA-)
 A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
 📄 Accepted at AAAI 2025
+
+### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (arXiv 2025)](https://arxiv.org/abs/2503.15970)
+An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
+📄 Submitted to CVPRW 2025
+
+### [Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules (Summer Annual Conference of IEIE, 2024)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)
+A study on estimating subject tension using eye blinking and facial expression recognition on embedded systems.  
+📄 Published at IEIE Summer Annual Conference 2024
+
 
 ---
 
