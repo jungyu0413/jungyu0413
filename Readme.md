@@ -24,14 +24,14 @@ A novel method that addresses both label ambiguity and class imbalance in FER us
 ### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (arXiv 2025)](https://arxiv.org/abs/2503.15970)  
 An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
 📄 Submitted to CVPRW 2025  
-🔗 [Official Code](https://github.com/jungyu0413/V-NAW-Video-FER)
+🔗 [Official Code](https://github.com/jungyu0413/V-NAW)
 
 ---
 
 ### [Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules (IEIE 2024)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)  
 A study on estimating subject anxiety using eye blinking and facial expression recognition on embedded systems.  
 📄 Published at IEIE Summer Annual Conference 2024  
-🔗 [Official Code](https://github.com/jungyu0413/Realtime-Eye-Blink-Detection)
+🔗 [Official Code](https://github.com/jungyu0413/Eye_Blink_Detection)
 
 
 ---
