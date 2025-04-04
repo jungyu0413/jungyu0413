@@ -21,9 +21,9 @@ A novel method that addresses both label ambiguity and class imbalance in FER us
 
 ---
 
-### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (arXiv 2025)](https://arxiv.org/abs/2503.15970)  
+### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (CVPRW 2025)](https://arxiv.org/abs/2503.15970)  
 An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
-📄 Submitted to CVPRW 2025  
+📄 Accepted at CVPRW 2025  
 🔗 [Official Code](https://github.com/jungyu0413/V-NAW)
 
 ---
