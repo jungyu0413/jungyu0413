@@ -37,6 +37,9 @@ A study on estimating subject anxiety using eye blinking and facial expression r
 ---
 
 ## 🖥️ Projects
+### [Expression Recognition App (Expression Classification)](https://github.com/jungyu0413/Expression_app)
+A PyQt-based app for facial expression recognition from images, videos, or real-time webcam input.
+Supports multi-face detection, expression classification, and visualizes softmax probability distributions.
 
 ### [Realtime Expression Recognition (Expression Classification)](https://github.com/jungyu0413/Realtime_FER_Classification)
 Real-time facial expression recognition using softmax-based classification.  
