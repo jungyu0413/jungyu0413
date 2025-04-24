@@ -17,7 +17,7 @@ Ultimately, I aspire to become a researcher who contributes to society and the n
 ### [Navigating Label Ambiguity for Facial Expression Recognition in the Wild (AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/32476)  
 A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
 📄 Published at AAAI 2025  
-🔗 [Official Code]()
+🔗 [Official Code](https://github.com/jungyu0413/Navigating-Label-Ambiguity-NLA-)
 
 ---
 
