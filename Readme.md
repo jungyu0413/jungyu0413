@@ -1,7 +1,7 @@
 # 👋 Hi, I'm JunGyu Lee
 
 **MS Student @ KIST School (UST)**  
-BS in BigData Analytics, Kookmin University  
+BS in Big-Data Analytics, Kookmin University  
 
 I'm currently researching **Facial Expression Recognition**, **Face Recognition**, and real-time applications of human-centered AI.  
 My work focuses on making AI models more **robust**, **interpretable**, and **practical** in real-world environments.
