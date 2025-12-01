@@ -1,16 +1,21 @@
-👋 Hi, I’m JunGyu Lee
+<h1>👋 Hi, I'm JunGyu Lee</h1>
 
-Ph.D. Student @ Yonsei University Graduate School of Artificial Intelligence
-M.S. in AI-Robotics, KIST School (UST)
-BS in Big-Data Analytics, Kookmin University
+<p><strong>Ph.D. Student @ Yonsei University Graduate School of Artificial Intelligence</strong><br>
+<strong>M.S. in AI-Robotics, KIST School (UST)</strong><br>
+BS in Big-Data Analytics, Kookmin University</p>
 
-I’m currently researching Trajectory Prediction and Crowd Behavior Modeling.
+<p>
+I'm currently researching <strong>Trajectory Prediction</strong> and <strong>Crowd Behavior Modeling</strong>.<br>
 My work focuses on building human-centered AI systems that understand and predict complex human movements.
+</p>
 
-Previously, I worked on Facial Expression Recognition, Face Recognition, and real-time vision-based applications during my M.S. program.
+<p>
+Previously, I worked on <strong>Facial Expression Recognition</strong>, <strong>Face Recognition</strong>, and real-time vision-based applications during my M.S. program.
+</p>
 
-I aim to develop AI technologies that genuinely help people and contribute to society through meaningful, human-focused research.
-
+<p>
+I aim to develop AI technologies that <strong>genuinely help people</strong> and contribute to society through meaningful, human-focused research.
+</p>
 
 
 ---
@@ -26,7 +31,7 @@ A novel method that addresses both label ambiguity and class imbalance in FER us
 
 ### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (CVPRW 2025)](https://arxiv.org/abs/2503.15970)  
 An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
-📄 Accepted at CVPRW 2025  
+📄 Published at CVPRW 2025  
 🔗 [Official Code](https://github.com/jungyu0413/V-NAW)
 
 ---
