@@ -1,13 +1,16 @@
-# 👋 Hi, I'm JunGyu Lee
+👋 Hi, I’m JunGyu Lee
 
-**MS Student @ KIST School**  
-BS in Big-Data Analytics, Kookmin University  
+Ph.D. Student @ Yonsei University Graduate School of Artificial Intelligence
+M.S. in AI-Robotics, KIST School (UST)
+BS in Big-Data Analytics, Kookmin University
 
-I'm currently researching **Facial Expression Recognition**, **Face Recognition**, and real-time applications of human-centered AI.  
-My work focuses on making AI models more **robust**, **interpretable**, and **practical** in real-world environments.
+I’m currently researching Trajectory Prediction and Crowd Behavior Modeling.
+My work focuses on building human-centered AI systems that understand and predict complex human movements.
 
-I'm particularly interested in developing AI systems that **understand humans most effectively** — both emotionally and behaviorally.  
-Ultimately, I aspire to become a researcher who contributes to society and the nation through **AI technologies that truly serve people**.
+Previously, I worked on Facial Expression Recognition, Face Recognition, and real-time vision-based applications during my M.S. program.
+
+I aim to develop AI technologies that genuinely help people and contribute to society through meaningful, human-focused research.
+
 
 
 ---
