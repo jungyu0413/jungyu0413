@@ -1,8 +1,6 @@
 <h1>👋 Hi, I'm JunGyu Lee</h1>
 
 <p><strong>Ph.D. Student @ Yonsei University Graduate School of Artificial Intelligence</strong><br>
-M.S. in AI-Robotics, KIST School (UST)<br>
-BS in Big-Data Analytics, Kookmin University</p>
 
 <p>
 I'm currently researching <strong>Trajectory Prediction</strong> and <strong>Crowd Behavior Modeling</strong>.<br>
