@@ -1,7 +1,5 @@
 <h1>👋 Hi, I'm JunGyu Lee</h1>
 
-<p><strong>Ph.D. Student @ Yonsei University Graduate School of Artificial Intelligence</strong><br>
-
 <p>
 I'm currently researching <strong>Trajectory Prediction</strong> and <strong>Crowd Behavior Modeling</strong>.<br>
 My work focuses on building human-centered AI systems that understand and predict complex human movements.
