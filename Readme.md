@@ -27,14 +27,14 @@ I am a Ph.D. student in the **Visual AI Lab at Yonsei University**, advised by P
 ---
 
 ## 📝 Publications
-
+### International Conferences
 - **[V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition](https://arxiv.org/abs/2503.15970)** *CVPR Workshop (ABAW Challenge), 2025* An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
   [[📄 Paper](https://arxiv.org/abs/2503.15970)] [[💻 Official Code](https://github.com/jungyu0413/V-NAW-Video-FER)]
 
 - **[Navigating Label Ambiguity for Facial Expression Recognition in the Wild](https://ojs.aaai.org/index.php/AAAI/article/view/32476)** *AAAI, 2025* A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
   [[📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32476)] [[💻 Official Code](https://github.com/jungyu0413/NLA)]
 
-### Journals & Domestic Conferences
+### Domestic Conferences
 - **[Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)** *IEIE Summer Annual Conference, 2024* A study on estimating subject anxiety using eye blinking and facial expression recognition on embedded systems.  
   [[📄 Paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)] [[💻 Code](https://github.com/jungyu0413/Eye_Blink_Detection)]
 
