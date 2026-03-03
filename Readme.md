@@ -17,7 +17,12 @@ I aim to develop AI technologies that <strong>genuinely help people</strong> and
 ---
 
 ## 📌 Publications
+### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (CVPRW 2025)](https://arxiv.org/abs/2503.15970)  
+An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
+📄 Published at CVPRW 2025  
+🔗 [Official Code](https://github.com/jungyu0413/V-NAW)
 
+---
 ### [Navigating Label Ambiguity for Facial Expression Recognition in the Wild (AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/32476)  
 A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
 📄 Published at AAAI 2025  
@@ -25,18 +30,10 @@ A novel method that addresses both label ambiguity and class imbalance in FER us
 
 ---
 
-### [V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition (CVPRW 2025)](https://arxiv.org/abs/2503.15970)  
-An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
-📄 Published at CVPRW 2025  
-🔗 [Official Code](https://github.com/jungyu0413/V-NAW)
-
----
-
 ### [Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules (IEIE 2024)](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)  
 A study on estimating subject anxiety using eye blinking and facial expression recognition on embedded systems.  
 📄 Published at IEIE Summer Annual Conference 2024  
 🔗 [Official Code](https://github.com/jungyu0413/Eye_Blink_Detection)
-
 
 ---
 
