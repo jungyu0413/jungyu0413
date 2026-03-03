@@ -3,12 +3,10 @@
   <p>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Visual AI Lab</a>, Yonsei University</p>
   <p>AI Researcher | Computer Vision | Human-Centered AI</p>
 
-  <a href="mailto:jungyu0413@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Email"/></a>
-  <a href="[https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko](https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko)"><img src="[https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)" alt="Google Scholar"/></a>
-  <a href="[https://www.linkedin.com/in/jungyu-lee-0315sb/](https://www.linkedin.com/in/jungyu-lee-0315sb/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
 
-<br>
 <br>
 
 ## 👨‍💻 About Me
