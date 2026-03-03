@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm JunGyu Lee</h1>
-  <p>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Vision AI Lab</a>, Yonsei University</p>
+  <p>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Visual AI Lab</a>, Yonsei University</p>
   <p>AI Researcher | Computer Vision | Human-Centered AI</p>
 
   <a href="mailto:jungyu0413@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Email"/></a>
