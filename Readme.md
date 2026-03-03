@@ -28,7 +28,6 @@ I am a Ph.D. student in the **Visual AI Lab at Yonsei University**, advised by P
 
 ## 📝 Publications
 
-### Top-Tier Conferences
 - **[V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition](https://arxiv.org/abs/2503.15970)** *CVPR Workshop (ABAW Challenge), 2025* An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
   [[📄 Paper](https://arxiv.org/abs/2503.15970)] [[💻 Official Code](https://github.com/jungyu0413/V-NAW-Video-FER)]
 
