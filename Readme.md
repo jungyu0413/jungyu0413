@@ -4,7 +4,7 @@
   <p>AI Researcher | Computer Vision | Human-Centered AI</p>
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)]([https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
 
 <br>
