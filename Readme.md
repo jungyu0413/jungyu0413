@@ -1,7 +1,7 @@
 <div align="center">
   <h1>👋 Hi, I'm JunGyu Lee</h1>
-  <p><b>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Vision AI Lab</a>, Yonsei University</b></p>
-  <p><b>AI Researcher | Computer Vision | Human-Centered AI</b></p>
+  <p>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Vision AI Lab</a>, Yonsei University</p>
+  <p>AI Researcher | Computer Vision | Human-Centered AI</p>
 </div>
 
 <p align="center">
