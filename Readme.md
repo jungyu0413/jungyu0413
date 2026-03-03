@@ -1,15 +1,14 @@
-<div align="center">
-  <h1>👋 Hi, I'm JunGyu Lee</h1>
-  <p>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Visual AI Lab</a>, Yonsei University</p>
-  <p>AI Researcher | Computer Vision | Human-Centered AI</p>
+# 👋 Hi, I'm JunGyu Lee
 
-  <a href="[https://jungyu0413.github.io/](https://jungyu0413.github.io/)"><img src="[https://img.shields.io/badge/Homepage-255E63?style=flat-square&logo=googlechrome&logoColor=white](https://img.shields.io/badge/Homepage-255E63?style=flat-square&logo=googlechrome&logoColor=white)" alt="Homepage"/></a>
-  <a href="mailto:jungyu.lee@yonsei.ac.kr"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Email"/></a>
-  <a href="[https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)"><img src="[https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)" alt="Google Scholar"/></a>
-  <a href="[https://www.linkedin.com/in/jungyu-lee-0315sb/](https://www.linkedin.com/in/jungyu-lee-0315sb/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
-</div>
+Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yonsei University
+AI Researcher | Computer Vision | Human-Centered AI
 
-<br>
+[![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
+
+---
 
 ## 👨‍💻 About Me
 
