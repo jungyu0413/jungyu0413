@@ -2,11 +2,19 @@
   <h1>👋 Hi, I'm JunGyu Lee</h1>
   <p><b>Ph.D. Student @ <a href="[https://sites.google.com/site/hgjeoncv/home](https://sites.google.com/site/hgjeoncv/home)">Vision AI Lab</a>, Yonsei University</b></p>
   <p><b>AI Researcher | Computer Vision | Human-Centered AI</b></p>
-  
-  <a href="mailto:jungyu0413@gmail.com"><img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)" alt="Email"/></a>
-  <a href="[https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko](https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko)"><img src="[https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)" alt="Google Scholar"/></a>
-  <a href="[https://www.linkedin.com/in/jungyu-lee-0315sb/](https://www.linkedin.com/in/jungyu-lee-0315sb/)"><img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)" alt="LinkedIn"/></a>
 </div>
+
+<p align="center">
+  <a href="mailto:jungyu0413@gmail.com">
+    <img src="[https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white](https://img.shields.io/badge/Email-D14836?style=flat-square&amp;logo=gmail&amp;logoColor=white)" alt="Email"/>
+  </a>
+  <a href="[https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko](https://scholar.google.com/citations?user=2pnIJggAAAAJ&hl=ko)">
+    <img src="[https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=google-scholar&amp;logoColor=white](https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&amp;logo=google-scholar&amp;logoColor=white)" alt="Google Scholar"/>
+  </a>
+  <a href="[https://www.linkedin.com/in/jungyu-lee-0315sb/](https://www.linkedin.com/in/jungyu-lee-0315sb/)">
+    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white)" alt="LinkedIn"/>
+  </a>
+</p>
 
 <br>
 
