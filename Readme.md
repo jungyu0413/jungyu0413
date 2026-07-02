@@ -20,6 +20,7 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 ---
 
 ## 📢 News
+- [2026.06] Our paper DTC-TRUS was accepted at MICCAI 2026 🎉
 - [2026.03] Started my Ph.D. program at the Visual AI Lab, Yonsei University!
 - [2025.03] Our paper V-NAW was accepted at the CVPR 2025 Workshop (ABAW Challenge) (Ranked 5th in EXPR Track) 🎉
 - [2024.12] Our paper NLA was accepted at AAAI 2025 🎉
