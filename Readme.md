@@ -15,7 +15,7 @@ AI Researcher | Computer Vision | Human-Centered AI
 
 I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof. Hae-Gon Jeon. My research focuses on building human-centered AI systems that understand and predict complex human movements and behaviors. My ultimate goal is to develop AI technologies that genuinely help people and contribute to society through meaningful, human-focused research.
 
-- 🔭 Current Research: Robotics, Crowd Generation, World Models.
+- 🔭 Current Research: Crowd Generation, Social Robot Navigation, World Models.
 - 🌱 Previous Focus: Facial Expression Recognition (FER), Face Recognition, Medical Image Analysis, and real-time vision-based applications.
 
 ---
