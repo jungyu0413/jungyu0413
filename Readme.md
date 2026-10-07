@@ -4,7 +4,7 @@ Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yo
 AI Researcher | Computer Vision | Human-Centered AI
 
 [![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
-[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261007c)
+[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261007d)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
@@ -23,6 +23,7 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 ## 📢 News
 - [2026.10] [Ctrl-CWM](https://jungyu0413.github.io/Ctrl-CWM/), our work on controllable crowd generation through world-model planning, is released with code 🎉
 - [2026.10] Our preprint [MoRE](https://arxiv.org/abs/2610.07954) on language-based trajectory prediction is now on arXiv 🎉
+- [2026.10] [SGP-TTA](https://boa-jang.github.io/SGP-TTA/), our work on test-time adaptation for thin curvilinear structure segmentation, is released with code 🎉
 - [2026.09] Our paper ComPose was accepted at NeurIPS 2026 🎉
 - [2026.07] Our paper PSCT-Net was accepted at the MICCAI 2026 Workshop 🎉
 - [2026.06] Our paper DTC-TRUS was accepted at MICCAI 2026 🎉
@@ -41,6 +42,10 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 - **[Revisiting Numerical Forecasting Models for Language-Based Trajectory Prediction](https://jungyu0413.github.io/MoRE/)**  
   MoRE builds on a pretrained language-based forecasting architecture and refines it using rewards from numerical experts.  
   [🌐 Project Page](https://jungyu0413.github.io/MoRE/) | [📄 Paper](https://arxiv.org/abs/2610.07954)
+
+- **[SGP-TTA: Skeleton-Guided Progressive Test-Time Adaptation for Thin Curvilinear Structures](https://boa-jang.github.io/SGP-TTA/)**  
+  Test-time adaptation for thin vessel and road segmentation under cross-modality shifts, adapting only batch-norm layers with progressive statistics blending and skeleton-guided consensus recall.  
+  [🌐 Project Page](https://boa-jang.github.io/SGP-TTA/) | [💻 Code](https://github.com/Boa-Jang/SGPTTA)
 
 ### International Conferences
 - **[ComPose: When to Trust Hands for Object Pose Tracking](https://jsshin.com/ComPose/)**  
