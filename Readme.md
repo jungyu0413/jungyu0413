@@ -21,6 +21,7 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 ---
 
 ## 📢 News
+- [2026.10] Our preprint [MoRE](https://jungyu0413.github.io/MoRE/) on language-based human trajectory prediction is released 🎉
 - [2026.09] Our paper ComPose was accepted at NeurIPS 2026 🎉
 - [2026.07] Our paper PSCT-Net was accepted at the MICCAI 2026 Workshop 🎉
 - [2026.06] Our paper DTC-TRUS was accepted at MICCAI 2026 🎉
