@@ -4,7 +4,7 @@ Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yo
 AI Researcher | Computer Vision | Human-Centered AI
 
 [![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
-[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261007b)
+[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261007c)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
@@ -21,6 +21,7 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 ---
 
 ## 📢 News
+- [2026.10] [Ctrl-CWM](https://jungyu0413.github.io/Ctrl-CWM/), our work on controllable crowd generation through world-model planning, is released with code 🎉
 - [2026.10] Our preprint [MoRE](https://arxiv.org/abs/2610.07954) on language-based trajectory prediction is now on arXiv 🎉
 - [2026.09] Our paper ComPose was accepted at NeurIPS 2026 🎉
 - [2026.07] Our paper PSCT-Net was accepted at the MICCAI 2026 Workshop 🎉
@@ -33,6 +34,10 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 
 ## 📝 Publications
 ### Under Review
+- **[Controllable Crowd Generation through World-Model Planning](https://jungyu0413.github.io/Ctrl-CWM/)**  
+  Ctrl-CWM is a controllable crowd world model that plans with imagined futures, so new user objectives can steer a simulated crowd at run time without retraining.  
+  [🌐 Project Page](https://jungyu0413.github.io/Ctrl-CWM/) | [💻 Code](https://github.com/jungyu0413/Ctrl-CWM)
+
 - **[Revisiting Numerical Forecasting Models for Language-Based Trajectory Prediction](https://jungyu0413.github.io/MoRE/)**  
   MoRE builds on a pretrained language-based forecasting architecture and refines it using rewards from numerical experts.  
   [🌐 Project Page](https://jungyu0413.github.io/MoRE/) | [📄 Paper](https://arxiv.org/abs/2610.07954)
