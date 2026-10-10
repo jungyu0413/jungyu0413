@@ -4,7 +4,7 @@ Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yo
 AI Researcher | Computer Vision | Human-Centered AI
 
 [![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
-[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261009)
+[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261010)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
@@ -71,13 +71,13 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 - **[Navigating Label Ambiguity for Facial Expression Recognition in the Wild](https://ojs.aaai.org/index.php/AAAI/article/view/32476)**  
   *AAAI, 2025*  
   A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
-  [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32476) | [💻 Official Code](https://github.com/jungyu0413/NLA)
+  [🌐 Project Page](https://jungyu0413.github.io/NLA/) | [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32476) | [💻 Official Code](https://github.com/jungyu0413/NLA)
 
 ### Domestic Conferences
 - **[Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)**  
   *IEIE Summer Annual Conference, 2024*  
   A study on estimating subject anxiety using eye blinking and facial expression recognition on embedded systems.  
-  [📄 Paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880) | [💻 Code](https://github.com/jungyu0413/Eye_Blink_Detection)
+  [🌐 Project Page](https://jungyu0413.github.io/Eye_Blink_Detection/) | [📄 Paper](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880) | [💻 Code](https://github.com/jungyu0413/Eye_Blink_Detection)
 
 ---
 
