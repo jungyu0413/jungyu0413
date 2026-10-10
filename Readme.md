@@ -4,7 +4,7 @@ Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yo
 AI Researcher | Computer Vision | Human-Centered AI
 
 [![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
-[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261010b)
+[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261010c)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
@@ -37,41 +37,41 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 ### Under Review
 - **[Controllable Crowd Generation through World-Model Planning](https://jungyu0413.github.io/Ctrl-CWM/)**  
   Ctrl-CWM is a controllable crowd world model that plans with imagined futures, so new user objectives can steer a simulated crowd at run time without retraining.  
-  [🌐 Project Page](https://jungyu0413.github.io/Ctrl-CWM/) | [📄 Paper](https://arxiv.org/abs/2610.09438) | [💻 Code](https://github.com/jungyu0413/Ctrl-CWM)
+  [🌐 Project Page](https://jungyu0413.github.io/Ctrl-CWM/) | [📝 arXiv](https://arxiv.org/abs/2610.09438) | [💻 Code](https://github.com/jungyu0413/Ctrl-CWM)
 
 - **[Revisiting Numerical Forecasting Models for Language-Based Trajectory Prediction](https://jungyu0413.github.io/MoRE/)**  
   MoRE builds on a pretrained language-based forecasting architecture and refines it using rewards from numerical experts.  
-  [🌐 Project Page](https://jungyu0413.github.io/MoRE/) | [📄 Paper](https://arxiv.org/abs/2610.07954) | [💻 Code](https://github.com/jungyu0413/MoRE)
+  [🌐 Project Page](https://jungyu0413.github.io/MoRE/) | [📝 arXiv](https://arxiv.org/abs/2610.07954) | [💻 Code](https://github.com/jungyu0413/MoRE)
 
 - **[Skeleton-Guided Progressive Test-Time Adaptation for Thin Curvilinear Structures](https://boa-jang.github.io/SGP-TTA/)**  
   Test-time adaptation for thin vessel and road segmentation under cross-modality shifts, adapting only batch-norm layers with progressive statistics blending and skeleton-guided consensus recall.  
-  [🌐 Project Page](https://boa-jang.github.io/SGP-TTA/) | [📄 Paper](https://arxiv.org/abs/2610.11104) | [💻 Code](https://github.com/Boa-Jang/SGPTTA)
+  [🌐 Project Page](https://boa-jang.github.io/SGP-TTA/) | [📝 arXiv](https://arxiv.org/abs/2610.11104) | [💻 Code](https://github.com/Boa-Jang/SGPTTA)
 
 ### International Conferences
 - **[ComPose: When to Trust Hands for Object Pose Tracking](https://jsshin.com/ComPose/)**  
   *NeurIPS, 2026*  
   A 6DoF object pose tracking framework that treats the grasping hand as a complementary cue rather than an occluder, enabling robust tracking from RGB video under heavy hand occlusion.  
-  [🌐 Project Page](https://jsshin.com/ComPose/) | [📄 Paper](https://arxiv.org/abs/2605.23523)
+  [🌐 Project Page](https://jsshin.com/ComPose/) | [📝 arXiv](https://arxiv.org/abs/2605.23523)
 
 - **[Distilling Temporal Coherence into 2D Networks for TRUS Prostate Video Segmentation](https://dydevelop.github.io/DTC-TRUS/)**  
   *MICCAI, 2026*  
   Distills temporal coherence into a standard 2D segmentation network during training, removing frame-to-frame flicker in ultrasound video at no extra inference cost.  
-  [🌐 Project Page](https://dydevelop.github.io/DTC-TRUS/) | [📄 Paper](https://arxiv.org/abs/2606.31198) | [💻 Code](https://github.com/DYDevelop/DTC-TRUS)
+  [🌐 Project Page](https://dydevelop.github.io/DTC-TRUS/) | [📄 Paper](https://papers.miccai.org/miccai-2026/0295-Paper0460.html) | [📝 arXiv](https://arxiv.org/abs/2606.31198) | [💻 Code](https://github.com/DYDevelop/DTC-TRUS)
 
 - **[PSCT-Net: Geometry-Aware Pediatric Skull CT Reconstruction via Differentiable Back-Projection and Attention-Guided Refinement](https://dydevelop.github.io/PSCT-Net/)**  
   *MICCAI Workshop, 2026*  
   Reconstructs 3D pediatric skull CT from sparse bi-planar X-rays with differentiable back-projection and attention-guided refinement, a low-dose alternative to CT.  
-  [🌐 Project Page](https://dydevelop.github.io/PSCT-Net/) | [📄 Paper](https://arxiv.org/abs/2606.19867) | [💻 Code](https://github.com/DYDevelop/PSCT-Net)
+  [🌐 Project Page](https://dydevelop.github.io/PSCT-Net/) | [📄 Paper](https://papers.miccai.org/miccai-2026-sat/PedAItrics_004.html) | [📝 arXiv](https://arxiv.org/abs/2606.19867) | [💻 Code](https://github.com/DYDevelop/PSCT-Net)
 
 - **[V-NAW: Video-based Noise-aware Adaptive Weighting for Facial Expression Recognition](https://arxiv.org/abs/2503.15970)**  
   *CVPR Workshop (ABAW Challenge), 2025*  
   An extension of NLA into the video domain. V-NAW leverages temporal dynamics and noise-aware sample emphasis for robust video-based FER.  
-  [🌐 Project Page](https://jungyu0413.github.io/V-NAW/) | [📄 Paper](https://arxiv.org/abs/2503.15970) | [💻 Official Code](https://github.com/jungyu0413/V-NAW)
+  [🌐 Project Page](https://jungyu0413.github.io/V-NAW/) | [📄 Paper](https://openaccess.thecvf.com/content/CVPR2025W/ABAW/html/Lee_V-NAW_Video-based_Noise-aware_Adaptive_Weighting_for_Facial_Expression_Recognition_CVPRW_2025_paper.html) | [📝 arXiv](https://arxiv.org/abs/2503.15970) | [💻 Official Code](https://github.com/jungyu0413/V-NAW)
 
 - **[Navigating Label Ambiguity for Facial Expression Recognition in the Wild](https://ojs.aaai.org/index.php/AAAI/article/view/32476)**  
   *AAAI, 2025*  
   A novel method that addresses both label ambiguity and class imbalance in FER using adaptive weighting and consistency regularization.  
-  [🌐 Project Page](https://jungyu0413.github.io/NLA/) | [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32476) | [💻 Official Code](https://github.com/jungyu0413/NLA)
+  [🌐 Project Page](https://jungyu0413.github.io/NLA/) | [📄 Paper](https://ojs.aaai.org/index.php/AAAI/article/view/32476) | [📝 arXiv](https://arxiv.org/abs/2502.09993) | [💻 Official Code](https://github.com/jungyu0413/NLA)
 
 ### Domestic Conferences
 - **[Study on Facial Composite Feature Analysis for Determining Subject Anxiety Levels on Low-Power Computing Modules](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11890880)**  
