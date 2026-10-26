@@ -4,7 +4,7 @@ Ph.D. Student @ [Visual AI Lab](https://sites.google.com/site/hgjeoncv/home), Yo
 AI Researcher | Computer Vision | Human-Centered AI
 
 [![Homepage](https://img.shields.io/badge/Homepage-255E63?logo=googlechrome&logoColor=white&style=flat-square)](https://jungyu0413.github.io/)
-[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261010c)
+[![CV](https://img.shields.io/badge/CV-6E40C9?logo=googledocs&logoColor=white&style=flat-square)](https://jungyu0413.github.io/JunGyu_Lee_CV.pdf?v=20261026)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:jungyu.lee@yonsei.ac.kr)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?logo=googlescholar&logoColor=white&style=flat-square)](https://scholar.google.com/citations?user=fAaH1PIAAAAJ&hl=ko)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/jungyu-lee-0315sb/)
@@ -24,6 +24,7 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 - [2026.10] Our preprint [Ctrl-CWM](https://arxiv.org/abs/2610.09438) on controllable crowd generation through world-model planning is now on arXiv, with code 🎉
 - [2026.10] Our preprint [MoRE](https://arxiv.org/abs/2610.07954) on language-based trajectory prediction is now on arXiv 🎉
 - [2026.10] Our preprint [SGP-TTA](https://arxiv.org/abs/2610.11104) on test-time adaptation for thin curvilinear structure segmentation is now on arXiv, with code 🎉
+- [2026.10] Our preprint [IORA](https://arxiv.org/abs/2610.30969) on support-aware grasp synthesis for immobilizing irregular objects with low-DoF robot hands is now on arXiv 🎉
 - [2026.09] Our paper ComPose was accepted at NeurIPS 2026 🎉
 - [2026.07] Our paper PSCT-Net was accepted at the MICCAI 2026 Workshop 🎉
 - [2026.06] Our paper DTC-TRUS was accepted at MICCAI 2026 🎉
@@ -46,6 +47,10 @@ I am a Ph.D. student in the Visual AI Lab at Yonsei University, advised by Prof.
 - **[Skeleton-Guided Progressive Test-Time Adaptation for Thin Curvilinear Structures](https://boa-jang.github.io/SGP-TTA/)**  
   Test-time adaptation for thin vessel and road segmentation under cross-modality shifts, adapting only batch-norm layers with progressive statistics blending and skeleton-guided consensus recall.  
   [🌐 Project Page](https://boa-jang.github.io/SGP-TTA/) | [📝 arXiv](https://arxiv.org/abs/2610.11104) | [💻 Code](https://github.com/Boa-Jang/SGPTTA)
+
+- **[IORA: Irregular Object Immobilization under Restricted Actuation](https://sanghunhan92.github.io/conference/IORA/)**  
+  Support-aware grasp synthesis that lets a low-DoF coupled robot hand immobilize irregular objects by using the tabletop as a load-bearing contact, demonstrated in real cooking tasks.  
+  [🌐 Project Page](https://sanghunhan92.github.io/conference/IORA/) | [📝 arXiv](https://arxiv.org/abs/2610.30969)
 
 ### International Conferences
 - **[ComPose: When to Trust Hands for Object Pose Tracking](https://jsshin.com/ComPose/)**  
